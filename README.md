@@ -1,5 +1,4 @@
-# Discord-Bot-Mimimim
-It is a basic project done by a beginner
+
 import discord
 import random
 import os
